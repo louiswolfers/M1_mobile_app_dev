@@ -12,8 +12,8 @@ To hide the API url, I used the base64 encoding. While this is easily reversible
 
 # Screenshots
 
-![Biometric login](./screenshots/screen1.jpg)
-![Accounts](./screenshots/screen2.jpg)
+<img src="./screenshots/screen1.jpg" width="360" height="780">
+<img src="./screenshots/screen2.jpg" width="360" height="780">
 
 # Video
 
