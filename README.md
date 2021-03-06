@@ -19,7 +19,7 @@ To hide the API url, I used the base64 encoding. While this is easily reversible
 
 In the video we can see that the application works offline.
 
-![Video](./screenshots/offline.mp4)
+[Video](https://user-images.githubusercontent.com/7440721/110202360-45579b80-7e68-11eb-89e6-ee29d421d29e.mp4)
 
 # APK
 
