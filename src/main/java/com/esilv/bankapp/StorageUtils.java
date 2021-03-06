@@ -18,7 +18,7 @@ import java.io.Writer;
 import java.util.List;
 
 /**
- * Created by Philippe on 05/03/2018.
+ * Created by Philippe on 05/03/2018. Modified in order to fit the features of this project.
  * Taken from OpenClassRooms (https://openclassrooms.com/fr/courses/4561586-manage-your-data-to-have-a-100-offline-android-app/5770926-create-a-file-in-internal-storage)
  */
 

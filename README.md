@@ -10,8 +10,17 @@ In order to securely save the user's data on my phone, I made an Account class w
 
 To hide the API url, I used the base64 encoding. While this is easily reversible, it adds a thin layer of security and is not **directly** accessible when decompiling (e.g. jadx). In real world cases, the API should need authentication provided by the user.
 
+# Screenshots
+
+![Biometric login](./screenshots/screen1.jpg)
+![Accounts](./screenshots/screen2.jpg)
+
 # Video
 
 In the video we can see that the application works offline.
 
-![./offline.mp4]()
+[Video](./screenshots/offline.mp4)
+
+# APK
+
+[BankApp](./WOLFERS_Louis_BankApp.apk)

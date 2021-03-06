@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         promptInfo = new BiometricPrompt.PromptInfo.Builder()
                 .setTitle("Biometric authentication")
                 .setSubtitle("Log in using your biometric credential")
-                .setNegativeButtonText("Use account password")
+                .setNegativeButtonText("Cancel")
                 .build();
 
         Button biometricLoginButton = findViewById(R.id.biometric_login);
